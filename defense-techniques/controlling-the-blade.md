@@ -1,6 +1,6 @@
-Controlling the blade
+# Controlling the blade
 
-overhead knife attack
+### Attack: overhead knife attack
 
 step fw w/left, upward X block to guide rt arm cradle, drive knife into thigh.
 Pull up

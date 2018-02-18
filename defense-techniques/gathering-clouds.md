@@ -1,6 +1,7 @@
-Gathering clouds
+# Gathering clouds
 
-a: st rt punch
+### Attack: Straight Right Punch
+
 lt leg fw inward block lt hand
 rt hand half fist rake ribs
 handsword kidney

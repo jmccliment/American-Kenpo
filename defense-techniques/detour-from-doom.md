@@ -1,3 +1,3 @@
 # Detour from Doom
 
-A: Right roundhouse kick
+### Attack: Right roundhouse kick

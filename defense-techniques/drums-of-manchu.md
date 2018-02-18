@@ -1,0 +1,3 @@
+# Drums of Manchu
+
+### Attack: 

@@ -1,6 +1,6 @@
-Circling the Horizon
+# Circling the Horizon
 
-a: high straight right punbch
+### Attack: high straight right punbch
 
 step forward with l, inward block.
 cat stance

@@ -1,3 +1,3 @@
 # Locking Horns
 
-A: Front guillotine
+### Attack: Front guillotine
