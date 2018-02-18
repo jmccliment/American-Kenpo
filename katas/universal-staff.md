@@ -1,4 +1,4 @@
-# (unknown name) Staff Kata
+# Universal Staff
 
 ## Bow
 * start in rest position, staff in rt hand, at rt foot, angled out, l hand behind back
