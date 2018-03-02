@@ -1,3 +1,5 @@
 # Dance of Death
 
-### Attack: 
+### Attack: Stright Right Kick follwed by a Straight Right Punch
+
+1. 

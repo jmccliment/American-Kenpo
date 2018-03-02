@@ -1,3 +1,5 @@
 # Dance of Darkness
 
-### Attack: 
+### Attack: Straight Right Kick, followed by a Straight Right Punch
+
+1. 
