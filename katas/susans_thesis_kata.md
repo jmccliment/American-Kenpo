@@ -1,10 +1,10 @@
 # Back to Basics
 
 ## Purpose
-Back to Basics - can't move forward without having the basics down.
+The purpose of my kata is to master the basics.
 
 ## Reason
-
+You can't move forward without having the basics down first.
 
 ## Steps
 - Bow
