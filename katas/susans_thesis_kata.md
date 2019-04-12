@@ -1,6 +1,6 @@
 # Back to Basics
-> Susan McCliment
-> 1st Degree Thesis Kata
+- Susan McCliment
+- 1st Degree Thesis Kata
 
 ## Purpose
 The purpose of my kata is to master the basics.
