@@ -1,9 +1,7 @@
 # The Squeakquel
-> Conner McCliment  
-> 2nd Degree Thesis Kata  
-
-- Student: Conner McCliment  
-- Weapon: Kamas  
+- Conner McCliment  
+- 2nd Degree Thesis Kata  
+- Kamas
 
 ## Purpose
 To defend off of multiple attackers
