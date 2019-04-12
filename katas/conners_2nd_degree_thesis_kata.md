@@ -1,9 +1,11 @@
 # The Squeakquel
+- Weapon: Kamas
 
 ## Purpose
 To defend off of multiple attackers
 
 ## Reason
+To perfect the basics with a weapon
 
 ## Steps
 
@@ -17,7 +19,7 @@ To defend off of multiple attackers
   - Right arm: overhead inverted vertical punch, *and*
   - Left arm: low vertical punch, around stomach
 - [Attacker 2] *While* right leg steps forward into a front twist, 
-  - Both arms: Piggyback punch, right hand on top
+  - Both arms: Piggyback punch
 - [T] Left leg: side kick to [Attacker 2], turn to face [Attacker 1]
 - [1] Left leg: spinning hook kick
 - [1] Right hand: finger spin up
